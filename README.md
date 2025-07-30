@@ -23,14 +23,12 @@ It empowers stakeholders with data-driven decision-making by visualizing key KPI
 ✨ Modern & Engaging Design – Visually appealing, easy-to-navigate dashboards.
 
 🗂 Project Structure
-bash
-Copy
-Edit
 Blinkit-Sales-Analysis/
 │
 ├── Blinkit_Sales_Analysis.pbix   # Power BI dashboard file
 ├── README.md                     # Project documentation
 └── /Screenshots                  # Folder for dashboard screenshots
+
 📊 Data Model
 The dashboard uses a star-schema model with:
 
@@ -40,6 +38,7 @@ Dimension Tables: Products, Customers, Locations, and Time.
 
 Relationships: Established for seamless cross-filtering and drill-through analytics.
 
+![image alt](https://github.com/Seshasai-235/Blinkit-Sales-Analysis-Dashboard/blob/fdad92d2afd94735d21e15500848f78fb856a575/Blinkit%20Sales%20Analysis%20Dashboard.png)
 
 👥 Target Audience
 Business Managers & Executives – For strategic decisions on sales performance.
@@ -65,5 +64,6 @@ Customer Analysis
 
 🛠 Requirements
 Power BI Desktop (latest version recommended).
+Data Set.
 
 Access to the Blinkit dataset (if connected to live data).
